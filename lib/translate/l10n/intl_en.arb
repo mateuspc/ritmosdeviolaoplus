@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "app_name": "Ritmos de violão",
+  "share": "Share",
+  "options": "Options",
+  "share_with_friend": "Share with friend",
+  "team_contact": "Team contact",
+  "other_apps": "Other Apps",
+  "about" : "About",
+  "privacy_policy": "Privacy policy",
+  "terms_of_use": "Terms of use",
+  "lifetime": "Lifetime",
+  "buy": "BUY",
+  "restore_purchases": "Restore purchases",
+  "restore_successfully": "Purchase successfully restored",
+  "no_purchase_not_found": "No purchase not found",
+  "lifetime_plan_description": "In the lifetime plan, you pay only once and have access to all the features of the app!"
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "pt",
+  "app_name": "Ritmos de violão",
+  "share": "Compatilhar",
+  "options": "Opções",
+  "share_with_friend": "Compartilhar com amigo",
+  "team_contact": "Contato com a equipe",
+  "other_apps": "Outros aplicativos",
+  "about" : "Sobre",
+  "privacy_policy": "Política de privacidade",
+  "terms_of_use": "Termos de uso",
+  "lifetime" : "Vitalício",
+  "buy": "COMPRAR",
+  "restore_purchases": "Restaurar compras",
+  "restore_successfully": "Compra restaurada com sucesso",
+  "no_purchase_not_found": "Nenhuma compra encontrada",
+  "lifetime_plan_description": "No plano vitalício, você paga somente uma vez e tem acesso a todos os recursos do app!"
+
+}
